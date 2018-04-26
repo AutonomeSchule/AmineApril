@@ -36,6 +36,8 @@ namespace MvcMovie.Controllers
             return c;
         }
 
+        // are we safe
+
 
         public int b(int a)
         {
