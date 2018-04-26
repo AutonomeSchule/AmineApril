@@ -1,0 +1,10 @@
+/home/amine/Amine/bin/Debug/netcoreapp2.0/Amine.deps.json
+/home/amine/Amine/bin/Debug/netcoreapp2.0/Amine.runtimeconfig.json
+/home/amine/Amine/bin/Debug/netcoreapp2.0/Amine.runtimeconfig.dev.json
+/home/amine/Amine/bin/Debug/netcoreapp2.0/Amine.dll
+/home/amine/Amine/bin/Debug/netcoreapp2.0/Amine.pdb
+/home/amine/Amine/obj/Debug/netcoreapp2.0/Amine.csproj.CoreCompileInputs.cache
+/home/amine/Amine/obj/Debug/netcoreapp2.0/Amine.AssemblyInfoInputs.cache
+/home/amine/Amine/obj/Debug/netcoreapp2.0/Amine.AssemblyInfo.cs
+/home/amine/Amine/obj/Debug/netcoreapp2.0/Amine.dll
+/home/amine/Amine/obj/Debug/netcoreapp2.0/Amine.pdb
